@@ -20,7 +20,7 @@ IF %ERRORLEVEL% NEQ 0 (
 
 setlocal enabledelayedexpansion
 
-SET DEPLOYMENT_SOURCE=%~dp0%
+SET DEPLOYMENT_SOURCE=%~dp0%.
 SET DEPLOYMENT_TARGET=..\wwwroot\content\themes\tynker
 
 IF NOT DEFINED NEXT_MANIFEST_PATH (
