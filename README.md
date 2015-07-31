@@ -1,8 +1,10 @@
-# Casper
+# Tynker
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+The site theme for [Ghost](http://github.com/tryghost/ghost/) on [tynker.net](http://www.tynker.net).
 
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+To download, clone this repository to your ghost themes folder.
+
+This theme is based on the [Casper theme](https://github.com/TryGhost/Casper) 
 
 ## Copyright & License
 
